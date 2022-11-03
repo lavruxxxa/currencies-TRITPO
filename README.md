@@ -83,21 +83,21 @@ imbanking - приложение крупнейшего банка РБ. Име�
 <details>
 <summary>Главный экран.</summary>
 
-![Главный экран]((https://user-images.githubusercontent.com/70812017/199708821-7be5665d-fa28-4f76-8ea5-1b1cbb388e62.png))
+![Главный экран](![SB66fYGCg04](https://user-images.githubusercontent.com/70812017/199709589-0a0aa487-5bc1-4f06-8ecc-fa0d20c95226.jpg))
 
 </details>
   
  <details>
 <summary>Динамика изменения курса валюты.</summary>
 
-![Динамика]((https://user-images.githubusercontent.com/70812017/199708940-9c5c0509-0da6-4ffb-bf9f-05e99901690a.png)) 
+![Динамика](![uT1YO-UtjJ8](https://user-images.githubusercontent.com/70812017/199709665-e801408b-0385-4815-a802-b436a02deb2c.jpg)) 
 
 </details>
 
   <details>
 <summary>Экран настроек.</summary>
 
-![Экран настройки]((https://user-images.githubusercontent.com/70812017/199709033-74017d41-7368-4b55-a2d2-1dbc27416013.png))
+![Экран настройки](![-KqdZwXBvr4](https://user-images.githubusercontent.com/70812017/199709707-c49f15a8-3980-47fb-b8bf-c339e9609f36.jpg))
 
 </details>
 
