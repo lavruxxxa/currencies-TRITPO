@@ -83,28 +83,21 @@ imbanking - приложение крупнейшего банка РБ. Име�
 <details>
 <summary>Главный экран.</summary>
 
-![Главный экран](![image](https://user-images.githubusercontent.com/70812017/199708821-7be5665d-fa28-4f76-8ea5-1b1cbb388e62.png))
+![Главный экран]((https://user-images.githubusercontent.com/70812017/199708821-7be5665d-fa28-4f76-8ea5-1b1cbb388e62.png))
 
 </details>
   
-  <details>
+ <details>
 <summary>Динамика изменения курса валюты.</summary>
 
-![Динамика](![image](https://user-images.githubusercontent.com/70812017/199708940-9c5c0509-0da6-4ffb-bf9f-05e99901690a.png)) 
+![Динамика]((https://user-images.githubusercontent.com/70812017/199708940-9c5c0509-0da6-4ffb-bf9f-05e99901690a.png)) 
 
 </details>
 
   <details>
 <summary>Экран настроек.</summary>
 
-![Экран настройки](![image](https://user-images.githubusercontent.com/70812017/199709033-74017d41-7368-4b55-a2d2-1dbc27416013.png))
-
-</details>
-
-<details>
-<summary>Экран корзины.  </summary>
-
-![Экран корзины](https://user-images.githubusercontent.com/59147112/194346562-76e6dad5-2e83-406f-a199-b2443bd121a8.jpg)
+![Экран настройки]((https://user-images.githubusercontent.com/70812017/199709033-74017d41-7368-4b55-a2d2-1dbc27416013.png))
 
 </details>
 
