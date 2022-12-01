@@ -54,8 +54,5 @@
 
 # Components
 
-![Components vpd](https://user-images.githubusercontent.com/72657584/203282181-82f16297-9846-47bd-87a1-b488a974b720.jpg)
+![Components vpd](https://user-images.githubusercontent.com/70812017/204994116-e29f7caa-6620-46e0-803c-da679d612d2d.png)
 
-# Deployment
-
-![image](https://user-images.githubusercontent.com/72657584/203284566-26377bdf-0d98-4628-a8dc-1d131261ee77.png)
