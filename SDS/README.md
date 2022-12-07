@@ -161,6 +161,12 @@
 
 ![image](https://user-images.githubusercontent.com/70812017/204915371-0da596ee-cebf-4951-8131-3b1a97bea4cf.png)
 
+# Class daigram
+
+Диграмма классов приложения 
+
+![Untitled](https://user-images.githubusercontent.com/70812017/206169766-bae34e9b-fb7c-4e02-80a8-93259d208f47.png)
+
 # Database schema
 
 Схема базы данных приложения
